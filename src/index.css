@@ -1,11 +1,12 @@
 html,
 body {
+  height: 100%;
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
   color: #444;
   background-color: #f7f8fc;
   background-image: url('./assets/backgrounds/dashboard_bg.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 }
 
 .cursor-pointer {

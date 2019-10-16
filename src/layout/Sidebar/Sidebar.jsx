@@ -13,7 +13,7 @@ import InvoiceIcon from '../../assets/icons/invoice.svg';
 import SettingsIcon from '../../assets/icons/settings.svg';
 
 export default function Sidebar() {
-  const [selected, setSelected] = useState(true);
+  const [selected, setSelected] = useState(false);
 
   return (
     <div id="Sidebar">

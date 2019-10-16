@@ -7,7 +7,7 @@ export default function StatusCard({
   boxStyle, icon, title, amount,
 }) {
   return (
-    <div className="col">
+    <div className="col my-4 my-lg-0">
       <div className="card d-flex flex-row justify-content-between border-0 shadow-sm">
         <div className={`box ml-4 shadow-sm flex-center text-white ${boxStyle}`}>
           <i className="material-icons">{icon}</i>
