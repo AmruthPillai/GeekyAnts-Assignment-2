@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130.093" height="31.056" viewBox="0 0 130.093 31.056">
+  <defs>
+    <style>.a,.b{fill:#fff;}.a{stroke:rgba(0,0,0,0);}.b{font-size:20px;font-family:Montserrat;font-weight:600;}</style>
+  </defs>
+  <g transform="translate(-7935.5 133.751)">
+    <g transform="translate(7936 -133.251)">
+      <path class="a" d="M17.021,26.027a8.986,8.986,0,0,1,0-17.971h5.208V3.808H17.021A13.235,13.235,0,0,0,6.581,25.176H2.066A17.024,17.024,0,0,1,17.021.021h5.208V0h3.777V.021h0V3.808l0,4.248V17.6h-.018A9,9,0,0,1,17.021,26.027Zm-.238-13.283A4.351,4.351,0,1,0,21.134,17.1,4.356,4.356,0,0,0,16.783,12.744Z" transform="translate(0 0)" />
+      <text class="b" transform="translate(28.593 23.555)">
+        <tspan x="0" y="0">ashboard</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

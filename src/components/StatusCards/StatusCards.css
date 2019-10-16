@@ -1,0 +1,49 @@
+#StatusCards .card {
+  border-radius: 8px;
+}
+
+#StatusCards .box {
+  position: relative;
+  top: -20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 12px;
+}
+
+#StatusCards .box__messages {
+  background: rgb(90, 206, 57);
+  background: linear-gradient(
+    225deg,
+    rgba(90, 206, 57, 1) 0%,
+    rgba(52, 165, 21, 1) 100%
+  );
+}
+
+#StatusCards .box__users {
+  background: rgb(0, 152, 255);
+  background: linear-gradient(
+    227deg,
+    rgba(0, 152, 255, 1) 0%,
+    rgba(22, 132, 206, 1) 100%
+  );
+}
+#StatusCards .box__orders {
+  background: rgb(97, 211, 212);
+  background: linear-gradient(
+    224deg,
+    rgba(97, 211, 212, 1) 0%,
+    rgba(61, 154, 154, 1) 100%
+  );
+}
+#StatusCards .box__visitors {
+  background: rgb(111, 150, 195);
+  background: linear-gradient(
+    43deg,
+    rgba(111, 150, 195, 1) 0%,
+    rgba(56, 75, 98, 1) 100%
+  );
+}
+
+#StatusCards .material-icons {
+  font-size: 3.5em;
+}

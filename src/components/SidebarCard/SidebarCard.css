@@ -1,0 +1,17 @@
+#SidebarCard .card {
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin: 10px 0;
+  color: #666;
+  cursor: pointer;
+}
+
+#SidebarCard .active {
+  border: 2px solid #3b86ff !important;
+}
+
+#SidebarCard .active span {
+  color: #3b86ff !important;
+  font-weight: 600;
+}

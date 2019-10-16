@@ -1,0 +1,7 @@
+#SubmenuItem .active {
+  border: 1px solid #3b86ff !important;
+}
+
+#SubmenuItem .active span {
+  color: #3b86ff;
+}
